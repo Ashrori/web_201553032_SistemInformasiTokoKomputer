@@ -1,0 +1,2 @@
+ID Karyawan	: KRW001
+Password	: root
